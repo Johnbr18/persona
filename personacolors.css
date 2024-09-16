@@ -1,0 +1,80 @@
+body {
+  color:aqua;
+  background:black;
+  margin: 0px;
+  .great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+    margin-bottom: 50px;
+}
+
+}
+
+header {
+  border-bottom: solid 2px red;
+  padding: 20px;
+  font-size: 50px;
+  color: lawngreen
+}
+
+.parte1 {
+  background: blueviolet;
+  padding-bottom:30px;
+  padding-top:30px;
+  display:flex;
+  justify-content: center
+  
+}
+
+.PS1{margin-right: 5px;
+  margin-left:20px;
+  font-family: "Great Vibes", cursive;
+  
+}
+
+
+
+.P1V{margin-right: 25px;
+  overflow-x: auto;
+  
+}
+
+h1{font-size: 50px;
+  justify-content:center;
+}
+
+p {font-size: 30px;}
+
+.parte2 {
+  color: crimson;
+  background: blue;
+  padding-left: 30px  ; 
+  padding-right: 30px ;
+  
+}
+
+h2{font-size:40px;
+  padding-left:50%;
+  padding-right: 50%;
+}
+
+img{height:200px;
+  
+}
+
+.PSV{display: flex;
+  overflow-x: auto;
+  gap:10px;
+}
+
+.parte2 img {opacity:0.5;
+  height: 200px;
+}
+
+.parte2 img:rover {
+  opacity: 1.0;
+  border: 1px solid green;
+}
+
+
